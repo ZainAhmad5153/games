@@ -1,0 +1,13 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+    // Declare and initialize two variables
+    int a = 5;
+    int b = 3;
+
+    // Output the sum of a and b using a single cout command
+    cout << "The sum of " << a << " and " << b << " is " << (a + b) << endl;
+
+    return 0;
+}
